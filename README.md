@@ -2,12 +2,12 @@
 
 A Quotes app using Flutter
 
-## Screenshot
+## Screenshot!
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="256" hspace="4">
-  <img src="screenshots/create-quote.jpg" width="256" hspace="4">
-  <img src="screenshots/random-quote.jpg" width="256" hspace="4">
+  <img src="https://github.com/AnuyogJain/QuotesApp/assets/65466830/fbfc0b0c-25a4-40ba-a0eb-6de0487c16ac" width="256" hspace="4">
+  <img src="https://github.com/AnuyogJain/QuotesApp/assets/65466830/da5391a4-2c2a-4f9f-8582-13cc322f65df" width="256" hspace="4">
+  <img src="https://github.com/AnuyogJain/QuotesApp/assets/65466830/697541c4-1a71-4846-a8ba-c84a4bd76d6d" width="256" hspace="4">
 </p>
 
 ## Built With
